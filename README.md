@@ -20,7 +20,7 @@
 
 In this case-study we are able to identify the various acoustic sources using KNN some of the sources are:- 
 - Wind-turbine gearbox condition monitoring vibration analysis 
-
+- Music genre classification using Knn with feature extraction and feature scaling with 96% accuracy 
 - Pacific ocean Sound recordings for identifing the condition of life underwater
 - Tidal Current Cross-flow Turbine Wake ADV and PIV Data 
   - Provides measurements of the velocity and turbulence characteristics of the wake of a high-solidity cross-flow turbine in a laboratory flume. The data were obtained using Acoustic Doppler Velocimetry (ADV) and Particle Image Velocimetry (PIV)
